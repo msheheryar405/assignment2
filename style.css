@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 100vh;
+}
+.navbar-style
+{
+    
+    box-shadow: 10px 10px 10px green;
+    text-transform: capitalize;
+}
+ .logo
+ {
+     height: 100px;
+     width: 100px;
+     padding-left: 10px;
+     
+ }
+
+
+ .our-products{
+     text-align: center;
+     font-size: 50px;
+     color: darkblue;
+ }
+ .cover-ph{
+     background-size: cover;
+     height: 100px;
+     float: center
+     
+ }
+
+
+
+ .icon-bar
+ {
+     background: black;
+ }
+  .li a
+  {
+      color: green;
+    
+  }
+  .big-text
+   { font-size: 66px;
+    margin: 20px 0;
+    color: darkblue; 
+    text-align: center;
+
+  }
+
+
+
+
+
+
+  .our-productss {
+    padding-left: 250px;
+    pad
+}
+
+.our-productss .products-list {
+    display: inline-flex;
+}
+
+.our-productss .products-list .product-list-item img {
+    height: 150px;
+    width: 150px;
+}
+
+.our-products .products-list .product-list-item p {
+    color: rgb(34, 33, 33);
+    text-align: center;
+}
+  a.btn
+  {
+      margin: 30px 10px;
+      width: 150px;
+      padding: 10px;
+      border-radius: 20px;
+  }
+  a.btn-first{
+      background-color: green;
+     color: aliceblue;
+
+    }
+    a.btn-second{
+        background-color: transparent;
+        border: 1px solid;
+        color:green;
+
+    }
+    a.btn:hover{
+        background: grey;
+        border: none;
+        color: khaki;
+        box-shadow: 5px 5px 10px #999;
+        transition: 0.3s;
+    }
+    .p-text{
+        font-size: 20px;
+    margin: 20px 0;
+    color: darkgreen;
+
+    }
+
+    .heading{
+        font-size: 40px;
+    margin: 20px 0;
+    color: darkblue; 
+    text-align: center;
+
+    }
+    .sales-items{
+        font-size: 20px;
+    margin: 20px 0;
+    color: darkgreen;
+    text-align: center;
+
+    }
+
+    .item-table{
+    
+    margin-left: 400px;
+    margin-right: 100px;
+}
+
+.contact-h
+{
+    padding-left: 30px;
+    font-size: 30px;
+    color: darkblue;
+}
+
+.contact-p{
+
+    padding-left: 30px;
+    font-size: 22px;
+    color: green;
+}
+.youtube-link{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.products{
+
+  
+}
